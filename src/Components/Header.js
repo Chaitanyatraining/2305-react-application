@@ -25,6 +25,12 @@ import { Link } from 'react-router-dom'
           <Link to="counterapp" class="nav-link">Counter App</Link>
         </li>
         <li class="nav-item">
+          <Link to="lifecyclemethods" class="nav-link">lifeCycleMethods</Link>
+        </li>
+        <li class="nav-item">
+          <Link to="pagination" class="nav-link">Pagination</Link>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#">Pricing</a>
         </li>
         <li class="nav-item">
