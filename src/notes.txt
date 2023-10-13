@@ -19,3 +19,10 @@ form Validation
 Frament
 Routing
 Lifecycle Methods
+-------------------------------
+Hooks:
+    useState
+    useEffect
+    useContext
+    useReducer
+    useRef

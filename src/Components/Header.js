@@ -31,6 +31,15 @@ import { Link } from 'react-router-dom'
           <Link to="pagination" class="nav-link">Pagination</Link>
         </li>
         <li class="nav-item">
+          <Link to="usestatecounter" class="nav-link">useStateCounter</Link>
+        </li>
+        <li class="nav-item">
+          <Link to="useEffectHook" class="nav-link">useEffectHook</Link>
+        </li>
+        <li class="nav-item">
+          <Link to="useEffectPagination" class="nav-link">useEffectPagination</Link>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#">Pricing</a>
         </li>
         <li class="nav-item">
